@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header, footer {
+    background-color: #333; /* Couleur basique un peu trop basique mais ça fait le job */
+    color: #fff; /* Texte blanc (et commentaire inutile mais c'est pas trop grave) */
+    text-align: center;
+    padding: 1em;
+}
+
+main {
+    padding: 1em;
+}
+
+#quiz-container {
+    text-align: center;
+}
+
+.answer-container {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.answer-button {
+    padding: 15px 30px;
+    font-size: 18px;
+    cursor: pointer;
+    border: none;
+    border-radius: 8px;
+    background-color: #3498db; /* Couleur bleue simple */
+    color: #fff; /* Texte blanc (et deuxième commentaire inutile mais c'est toujours pas trop grave) */
+    transition: background-color 0.3s ease; /* Transition fluide trop cool */
+}
+
+.answer-button:hover {
+    background-color: #2980b9; /* Bleu un peu plus foncée au survol pour un effet professionel classe */
+}
