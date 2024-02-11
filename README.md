@@ -4,6 +4,6 @@
 <a href="accueil.html">link 1 - accueil<a/>
 <br/>
 <br/>
-<p>link 2 - placeholder (doesn't work :/)</p>
+<p>link 2 - placeholder (doesn't work :/ ... for now ...)</p>
 <br/>
 <p>made by Élian Bournisien</p>
