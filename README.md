@@ -1,5 +1,7 @@
 <h1>magolortheegggod.github.io<h1/>
-<p></p>uh yea i need that for an exercise of some sort<p/>
+<p></p>uh yea i made that page even if i could just make a "index.html" file, i just like to overcomplicate myself ig.<p/>
 <a href="accueil.html">link 1 - accueil<a/>
 <br/>
-<a href="php/index.php">link 2 - index<a/>
+<p>link 2 - placeholder (doesn't work :/)</p>
+
+<p>made by Élian Bournisien</p>
